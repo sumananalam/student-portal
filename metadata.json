@@ -1,0 +1,6 @@
+{
+  "name": "Spring Boot Student Portal & Enterprise IDE",
+  "description": "An advanced Java Spring Boot student portal web application with interactive REST API tester, Spring Boot source code viewer, student dashboard, and AI study assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
